@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Damian Galka (@DamianGalka)
+- 👀 I love technology and impact it has on our lives. I’m interested in computer networks and public clouds.
+- 🌱 I’m currently learning Google Cloud Platform and Terraform.
+
 <!--
 **DamianGalka/DamianGalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
 Here are some ideas to get you started:
 
